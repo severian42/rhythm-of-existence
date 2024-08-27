@@ -32,6 +32,15 @@ This application embodies these principles by:
 - Interactive dashboards for data visualization
 - Daily checklists for routine management
 
+## Live Demo
+
+You can try out the Life Tracking System without installation through our Hugging Face Space demo:
+
+[Life Tracking System Demo](https://severian-rhythm-of-existence.hf.space)
+
+This demo allows you to explore the features and functionality of the application in a web browser. Keep in mind that data in the demo is not persistent and is reset periodically.
+
+
 ## Installation
 
 1. Clone the repository:

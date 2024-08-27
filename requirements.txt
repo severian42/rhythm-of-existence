@@ -1,0 +1,5 @@
+gradio
+pandas
+plotly
+
+#pip install -r requirements.txt
